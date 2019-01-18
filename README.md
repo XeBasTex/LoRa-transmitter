@@ -6,3 +6,11 @@
 ![](https://img.shields.io/github/languages/code-size/XeBasTeX/LoRa-Transmitter.svg)
 
 As part of studies project (PE 17)
+
+### À propos des auteurs
+
+Authors: Paul Bourhis - Bastien Laville
+
+### Distribution et license
+
+MIT © Centrale Lyon
