@@ -7,10 +7,10 @@
 
 As part of studies project (PE 17)
 
-### À propos des auteurs
+### Edition
 
 Authors: Paul Bourhis - Bastien Laville
 
-### Distribution et license
+### Licence
 
 MIT © Centrale Lyon
