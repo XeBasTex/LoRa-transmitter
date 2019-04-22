@@ -9,7 +9,7 @@ As part of studies project (PE 17)
 
 ### Edition
 
-Authors: Paul Bourhis - Bastien Laville
+Authors: Paul Bourhis - Centrale Lyon Cosmos
 
 ### Licence
 
