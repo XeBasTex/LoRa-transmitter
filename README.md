@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/license/XeBasTeX/LoRa-Transmitter.svg)
 ![](https://img.shields.io/github/languages/code-size/XeBasTeX/LoRa-Transmitter.svg)
 
-As part of studies project (PE 17)
+A Qt app to monitor a LoRa transmitter, as part of studies project (PE 17) in my school.
 
 ### Edition
 
@@ -13,4 +13,4 @@ Authors: Paul Bourhis - Centrale Lyon Cosmos
 
 ### Licence
 
-MIT © Centrale Lyon
+Centrale Lyon
